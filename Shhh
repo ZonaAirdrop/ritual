@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget https://raw.githubusercontent.com/ZonaAirdrop/Brinxai.sh/main/Brinxxx -O Brinxxx
+chmod +x Brinxxx
+./Brinxxx
