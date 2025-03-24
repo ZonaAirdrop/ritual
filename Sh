@@ -2,12 +2,7 @@
 
 # Function to install Ritual Network Infernet automatically
 auto_install_ritual() {
-  clear
-  echo "===================================================="
-  echo "     ?? INSTALLING RITUAL NETWORK INFERNET ??       "
-  echo "===================================================="
-  echo ""
-
+  
   # Ask for private key with hidden input
   echo "Please enter your private key (with 0x prefix if needed)"
   echo "Note: Input will be hidden for security"
